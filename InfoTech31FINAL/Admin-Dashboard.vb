@@ -1,3 +1,3 @@
-﻿Public Class Admin
+﻿Public Class Admin_Dashboard
 
 End Class
